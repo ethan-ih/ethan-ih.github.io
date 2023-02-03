@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Kufi Arabic
+- Font Author: Copyright 2019 Google LLC. All Rights Reserved.
+- Font Source: http://fonts.gstatic.com/s/notokufiarabic/v15/CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh5v34bPnLSmf5yD.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
