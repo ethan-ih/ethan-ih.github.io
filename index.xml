@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>好好生活</title>
+    <title>Fine~</title>
     <link>/</link>
-    <description>Recent content on 好好生活</description>
+    <description>Recent content on Fine~</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>临渊羡鱼，不如退而结网。</copyright>
@@ -15,15 +15,6 @@
       
       <guid>/%E7%AC%94%E8%AE%B0/%E8%A1%8C%E4%B8%BA%E4%B8%89%E8%A6%81%E7%B4%A0/</guid>
       <description>当动机（motivation）、能力（ability）和提示（prompt）同时出现的时候，行为就会发生。</description>
-    </item>
-    
-    <item>
-      <title>写作：为了更好的生活</title>
-      <link>/%E6%96%87%E7%AB%A0/%E5%86%99%E4%BD%9C%E4%B8%BA%E4%BA%86%E6%9B%B4%E5%A5%BD%E7%9A%84%E7%94%9F%E6%B4%BB/</link>
-      <pubDate>Wed, 01 Feb 2023 12:00:18 +0800</pubDate>
-      
-      <guid>/%E6%96%87%E7%AB%A0/%E5%86%99%E4%BD%9C%E4%B8%BA%E4%BA%86%E6%9B%B4%E5%A5%BD%E7%9A%84%E7%94%9F%E6%B4%BB/</guid>
-      <description>开篇 # 随便写点什么。</description>
     </item>
     
     <item>
@@ -60,6 +51,15 @@
       
       <guid>/%E7%AC%94%E8%AE%B0/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%BF%E7%94%A8-srs/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%BF%E7%94%A8-srs/</guid>
       <description> </description>
+    </item>
+    
+    <item>
+      <title>记录当下的意义</title>
+      <link>/%E6%96%87%E7%AB%A0/%E8%AE%B0%E5%BD%95%E5%BD%93%E4%B8%8B%E7%9A%84%E6%84%8F%E4%B9%89/</link>
+      <pubDate>Tue, 31 Jan 2023 21:14:10 +0800</pubDate>
+      
+      <guid>/%E6%96%87%E7%AB%A0/%E8%AE%B0%E5%BD%95%E5%BD%93%E4%B8%8B%E7%9A%84%E6%84%8F%E4%B9%89/</guid>
+      <description>不写我就无法思考。 卢曼 记录变幻的人生 # TED 演讲: You don&amp;rsquo;t actually know what your future self wants</description>
     </item>
     
   </channel>
